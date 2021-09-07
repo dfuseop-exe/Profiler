@@ -62,6 +62,11 @@ export const skillsData = [
                 icon : <i class="devicon-nodejs-plain colored"></i>
             },
 
+            {
+                name : "Bootstrap",
+                icon : <i class="devicon-bootstrap-plain colored"></i>
+            },
+
         ]
     },
 

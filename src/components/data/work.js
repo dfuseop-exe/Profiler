@@ -1,7 +1,6 @@
 export const WorkData = [
     {
         company : "Wunderkinds Technologies & Systems Pvt Ltd",
-        website : "https://wktechsys.com" ,
         designantion : "Android Developer Intern",
         dateJoining : "01/05/2019",
         dateEnd : "30/06/2019",

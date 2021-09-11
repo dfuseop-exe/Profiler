@@ -7,7 +7,6 @@ function WorkCard({item}) {
             <img src={item.companyLogo} alt="company logo" className="work-logo"></img>
             <div className="work-info">
                 <label className="company-name">{item.company}</label>
-                <label className="website-name">{item.website}</label>
                 <label className="designation-name">{item.designantion}</label>
                 <div className="work-dates">
                     <label>{item.dateJoining}</label>-<label>{item.dateEnd}</label>

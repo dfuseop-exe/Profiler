@@ -8,6 +8,7 @@ function Header() {
 
     return (
         <div className="header">
+            <img src="./favicon.ico" style={{width : "50px"}}/>
             <div className="logo">Sushant Shinde</div>
             <div className="menu">
                 <div className="web-menu">

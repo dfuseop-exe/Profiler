@@ -4,7 +4,7 @@ export const projectData = [
         title : "Updates-Rocket",
         about : "Updates-Rocket is a news app to get latest top headlines of india based on your favourite categories!",
         tags : ["ReactJS", "API's", "Bootstrap 5.0"],
-        demo : 'https://dfuseop-exe.github.io/Updates-Rocket/',
+        demo : 'https://github.com/dfuseop-exe/Updates-Rocket',
         github : 'https://github.com/dfuseop-exe/Updates-Rocket',
         image : require("../../assets/newsillustration.png").default,
     },

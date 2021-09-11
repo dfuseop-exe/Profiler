@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb00888d.chunk.css",
-    "main.js": "/static/js/main.51f46452.chunk.js",
-    "main.js.map": "/static/js/main.51f46452.chunk.js.map",
+    "main.css": "/static/css/main.6fde6786.chunk.css",
+    "main.js": "/static/js/main.b53ef86e.chunk.js",
+    "main.js.map": "/static/js/main.b53ef86e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.10402899.js",
     "runtime-main.js.map": "/static/js/runtime-main.10402899.js.map",
     "static/js/2.45421ba4.chunk.js": "/static/js/2.45421ba4.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.08f67522.chunk.js": "/static/js/3.08f67522.chunk.js",
     "static/js/3.08f67522.chunk.js.map": "/static/js/3.08f67522.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.cb00888d.chunk.css.map": "/static/css/main.cb00888d.chunk.css.map",
+    "static/css/main.6fde6786.chunk.css.map": "/static/css/main.6fde6786.chunk.css.map",
     "static/js/2.45421ba4.chunk.js.LICENSE.txt": "/static/js/2.45421ba4.chunk.js.LICENSE.txt",
     "static/media/Sushant-Resume.pdf": "/static/media/Sushant-Resume.0c7e4dbe.pdf",
     "static/media/calculator.png": "/static/media/calculator.36e21671.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.10402899.js",
     "static/js/2.45421ba4.chunk.js",
-    "static/css/main.cb00888d.chunk.css",
-    "static/js/main.51f46452.chunk.js"
+    "static/css/main.6fde6786.chunk.css",
+    "static/js/main.b53ef86e.chunk.js"
   ]
 }

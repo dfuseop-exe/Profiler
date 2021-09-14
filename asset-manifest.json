@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6fde6786.chunk.css",
-    "main.js": "/static/js/main.b53ef86e.chunk.js",
-    "main.js.map": "/static/js/main.b53ef86e.chunk.js.map",
+    "main.js": "/static/js/main.8fabb090.chunk.js",
+    "main.js.map": "/static/js/main.8fabb090.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.10402899.js",
     "runtime-main.js.map": "/static/js/runtime-main.10402899.js.map",
     "static/js/2.45421ba4.chunk.js": "/static/js/2.45421ba4.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/2.45421ba4.chunk.js.LICENSE.txt": "/static/js/2.45421ba4.chunk.js.LICENSE.txt",
     "static/media/Sushant-Resume.pdf": "/static/media/Sushant-Resume.0c7e4dbe.pdf",
     "static/media/calculator.png": "/static/media/calculator.36e21671.png",
-    "static/media/coding.png": "/static/media/coding.29131d36.png",
+    "static/media/coding.png": "/static/media/coding.969ff5df.png",
     "static/media/instagram.png": "/static/media/instagram.baf231c8.png",
     "static/media/newsillustration.png": "/static/media/newsillustration.afd9760a.png",
     "static/media/textillustration.png": "/static/media/textillustration.19d83b63.png",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.10402899.js",
     "static/js/2.45421ba4.chunk.js",
     "static/css/main.6fde6786.chunk.css",
-    "static/js/main.b53ef86e.chunk.js"
+    "static/js/main.8fabb090.chunk.js"
   ]
 }

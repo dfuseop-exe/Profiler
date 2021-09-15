@@ -20,12 +20,25 @@ export const projectData = [
     },
 
     {
-        id : 2,
+        id : 3,
         title : "React-Cal",
         about : "React-Cal is a app for simple calculations",
         tags : ["ReactJS"],
         demo : 'https://dfuseop-exe.github.io/calc-app/',
         github : 'https://github.com/dfuseop-exe/calc-app',
         image : require('../../assets/calculator.png').default,
+    },
+
+    {
+        id : 4,
+        title : "Weather-Forecaster",
+        about : "Weather-Forecaster is a app to get Weather information of city that you want",
+        tags : ["ReactJS" , "APIs"],
+        demo : 'https://dfuseop-exe.github.io/Weather-Forecaster/',
+        github : 'https://github.com/dfuseop-exe/Weather-Forecaster',
+        image : require('../../assets/weather.png').default,
     }
+
+
+     
 ];

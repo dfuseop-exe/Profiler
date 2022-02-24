@@ -6,17 +6,17 @@ import "./home.css";
 
 function Home() {
     return (
-        <div className="home">
-            <div>
-                <Header />
+        <>
+            <Header />
+            <div className="home">
+                <div>
+                    <Body />
+                </div>
+                <div>
+                    <Footer />
+                </div>
             </div>
-            <div>
-                <Body />
-            </div>
-            <div>
-                <Footer />
-            </div>
-        </div>
+        </>
     )
 }
 

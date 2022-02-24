@@ -8,9 +8,7 @@ function Header() {
 
     return (
         <div className="header">
-            <img src="./favicon.ico" style={{width : "50px"}}/>
-            <div className="logo">Sushant Shinde</div>
-            <div className="menu">
+            <img src={require('../../assets/logo.png').default} className="logo" />
                 <div className="web-menu">
                     <Web />
                 </div>
@@ -21,7 +19,6 @@ function Header() {
                     {isOpen && <Mobile isOpen={isOpen} setIsOpen={setIsOpen}/>}
                 </div>
             </div>
-        </div>
     )
 }
 

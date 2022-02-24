@@ -2,12 +2,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 16px 0px;
-    padding: 8px 0px;
+    margin: 25px 0px;
+    padding: 25px 0px;
 }
 
 .project-photo{
-    width: 40%;
+    width: 30%;
 }
 
 .project-info{
@@ -63,11 +63,13 @@
 
 @media only screen and (max-width: 720px){
     .project-photo{
-        width: 70%;
+        width: 60%;     
+    margin-top: 1rem;
     }
 
     .project-card{
         flex-direction: column;
+        padding: 10px 0px;
     }
 
     .project-info{

@@ -33,11 +33,6 @@ export const skillsData = [
             },
 
             {
-                name : "PHP",
-                icon : <i class="devicon-php-plain colored"></i>
-            },
-
-            {
                 name : "C",
                 icon : <i class="devicon-c-plain colored"></i>
             },
@@ -53,13 +48,28 @@ export const skillsData = [
             },
 
             {
-                name : "Android",
-                icon : <i class="devicon-android-plain colored"></i>
+                name : "Next",
+                icon : <i class="devicon-nextjs-plain colored"></i>
+            },
+
+            {
+                name : "Express",
+                icon : <i class="devicon-expressjs-plain colored"></i>
             },
 
             {
                 name : "NodeJS",
                 icon : <i class="devicon-nodejs-plain colored"></i>
+            },
+
+            {
+                name : "Tailwind",
+                icon : <i class="devicon-tailwindcss-plain colored"></i>
+            },
+
+            {
+                name : "Material Ui",
+                icon : <i class="devicon-materialui-plain colored"></i>
             },
 
             {
@@ -102,7 +112,6 @@ export const skillsData = [
                 name : "GitHub",
                 icon : <i class="devicon-github-plain colored"></i>
             },
-
             {
                 name : "ReactJS",
                 icon : <i class="devicon-firebase-plain colored"></i>
